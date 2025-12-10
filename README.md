@@ -1,0 +1,1 @@
+I independently wrote an automatic address buying robot based on OCR technology, which was highly effective and took a total of 18 hours.This robot, independently written by me, can recognize chat software WeChat that is prohibited from providing APIs, obtain meme coin addresses, and buy them in Binance wallets, taking advantage of time arbitrage
