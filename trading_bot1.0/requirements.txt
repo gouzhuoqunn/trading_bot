@@ -1,0 +1,10 @@
+numpy>=1.24.0
+opencv-python>=4.8.0.74
+pillow>=10.0.0
+playwright>=1.44.0
+pyautogui>=0.9.54
+mss>=9.0.1
+pywinauto>=0.6.8
+pywin32>=306
+pytesseract>=0.3.10
+pyperclip>=1.8.2
